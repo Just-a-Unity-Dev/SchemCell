@@ -1,2 +1,2 @@
 # SchemCell
-Renovating Cell Machine
+Renovating Cell Machine, hosted under the MIT license.
